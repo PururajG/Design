@@ -1,0 +1,241 @@
+@media only screen and (max-width:992px) {
+
+    /* ----------- Header section start here--------------------*/
+
+
+    .navbar-first {
+        padding: 12px 50px 12px 50px;
+    }
+
+    /* responsive phone navbar */
+
+    .phone-navigation a div {
+        font-size: 0.8rem;
+    }
+
+    /* faq icon mobile */
+    .faq-icon {
+        position: fixed;
+        bottom: 6rem;
+        right: 1.8rem;
+    }
+
+    .header-content h1 {
+        font-size: 3.9rem !important;
+    }
+
+    .header-content p {
+        font-size: 1.085rem !important;
+    }
+
+    /* -------------------------------- odio section start -------------------- */
+
+    .odio-section .section-heading h2 {
+        font-size: 2rem;
+        letter-spacing: 0.1rem;
+    }
+
+    .odio-section .section-heading p {
+        font-size: 1rem;
+    }
+
+    .odio-section .card {
+        box-shadow: none !important;
+    }
+
+    .odio-section .active {
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+    }
+
+    .odio-section .card p {
+        font-size: 1.099rem;
+    }
+
+    .odio-section .card span {
+        font-size: 1.2rem;
+    }
+
+    .odio-section a,
+    .contact-us .card a {
+        padding: 5px 24px;
+        font-size: 1rem;
+    }
+
+    /* --------------------- Contact us start------------------- */
+
+    .contact-us .card .image {
+        max-width: 390px;
+    }
+
+    .contact-us .card h3 {
+        font-size: 1.4rem;
+    }
+
+    .contact-us .card p {
+        font-size: 0.9rem;
+    }
+
+
+    .footer-bottom {
+        margin-bottom: 4.1rem;
+    }
+
+
+}
+
+
+@media only screen and (max-width:768px) {
+
+    .navbar-first {
+        padding: 10px 17px 10px 17px;
+    }
+
+    .header-content h1 {
+        font-size: 3.7rem !important;
+    }
+
+    .header-content p {
+        font-size: 0.90rem !important;
+    }
+
+    .odio-section .section-heading h2 {
+        font-size: 1.9rem;
+        letter-spacing: 0rem;
+    }
+
+    .odio-section .section-heading p {
+        font-size: 0.9rem;
+    }
+
+    .odio-section .card p {
+        font-size: 0.91rem;
+    }
+
+    .odio-section .card span {
+        font-size: 1rem;
+    }
+
+    .odio-section a,
+    .contact-us .card a {
+        padding: 4px 18px;
+        font-size: 0.9rem;
+    }
+
+
+    .form-sectoin h4 {
+        margin-bottom: 1.6rem;
+        font-size: 1.8rem;
+    }
+
+    .form-sectoin label {
+        font-size: 1rem;
+        letter-spacing: 0.1rem;
+    }
+}
+
+
+@media only screen and (max-width:576px) {
+
+    .navbar-first {
+        padding: 10px 10px 10px 10px;
+    }
+
+    .phone-logo {
+        width: 6rem;
+        height: 2.7rem;
+    }
+
+
+    /* faq icon for contact */
+    .faq-icon {
+        position: fixed;
+        bottom: 4.5rem;
+        right: 1.6rem;
+        z-index: 88;
+    }
+
+    .faq-icon img {        
+        width: 3.5rem;
+    }
+
+    .header-content h1 {
+        font-size: 3.1rem !important;
+        letter-spacing: 0rem;
+    }
+
+    .header-content p {
+        font-size: 0.8rem !important;
+    }
+
+
+    .odio-section .section-heading h2 {
+        font-size: 1.7rem;
+    }
+
+    .odio-section .section-heading p {
+        font-size: 0.8rem;
+    }
+
+    .odio-section .card p {
+        font-size: 1.188rem;
+    }
+
+    .odio-section .card span {
+        font-size: 1.1rem;
+    }
+
+    .odio-section a,
+    .contact-us .card a {
+        padding: 5px 22px;
+        font-size: 0.92rem;
+    }
+
+    .form-sectoin h4 {
+        font-size: 1.4rem;
+    }
+
+    .form-sectoin label {
+        font-size: 0.9rem;
+        letter-spacing: 0.1rem;
+    }
+
+    .form-sectoin button {
+        font-size: 0.9rem;
+        padding: 5px 50px;
+    }
+
+}
+
+
+@media only screen and (max-width:450px) {
+
+    .header-content h1 {
+        font-size: 2.6rem !important;
+    }
+
+
+    .odio-section .card p {
+        font-size: 1rem;
+    }
+
+    .odio-section .card span {
+        font-size: 1rem;
+    }
+
+    .odio-section a,
+    .contact-us .card a {
+        padding: 4px 18px;
+        font-size: 0.8rem;
+    }
+
+
+}
+
+
+@media only screen and (max-width:390px) {
+
+    .header-content h1 {
+        font-size: 2.3rem !important;
+    }
+
+}
